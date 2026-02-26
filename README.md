@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# DEVEOPS-FULL-STACK
+![CI Pipeline](https://github.com/YOUR_USERNAME/personal-finance-tracker/actions/workflows/ci.yml/badge.svg)
+>>>>>>> b54267e2199738632d0a801067e6e9141d3013d3
